@@ -8,6 +8,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@syncfusion/ej2": "^20.1.56",
+    "@syncfusion/ej2-base": "^20.1.56",
+    "@syncfusion/ej2-data": "^20.1.55",
+    "@syncfusion/ej2-react-buttons": "^20.1.55",
+    "@syncfusion/ej2-react-calendars": "^20.1.56",
+    "@syncfusion/ej2-react-dropdowns": "^20.1.56",
+    "@syncfusion/ej2-react-inputs": "^20.1.55",
+    "@syncfusion/ej2-react-navigations": "^20.1.56",
+    "@syncfusion/ej2-react-schedule": "^20.1.56",
+    "@syncfusion/ej2-react-splitbuttons": "^20.1.55",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
